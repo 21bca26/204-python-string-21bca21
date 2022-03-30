@@ -8,7 +8,7 @@ def string(s):
     count=0
     for i in l:
         for j in i:
-            if len(string)%2==0:
+           // if len(string)%2==0:
                 print(string(s))
                 count+=1
             return(count)
